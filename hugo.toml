@@ -1,4 +1,4 @@
-baseURL = "https://himadoya.github.io/himadoya.org"
+baseURL = "https://himadoya.github.io/himadoya.org/"
 languageCode = "en-US"
 title = "HIMADOYA+"
 theme = "OrgNest"
