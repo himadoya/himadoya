@@ -121,13 +121,13 @@ canonifyURLs = true
       year = "2024"
       title = "Awal Mula HIMADOYA"
       description = "Pada tahun 2024, dari keresahan yang nyata tentang sulitnya akses transportasi antara Kampus Cilibende dan Kampus Baranangsiang IPB, lahirlah sebuah inisiatif yang sederhana namun bermakna besar. Delapan mahasiswa IPB yang berdomisili di daerah Lodaya berkumpul, menyatukan suara dan semangat—itulah hari pertama HIMADOYA+ berdiri. Bukan sekadar komunitas, HIMADOYA+ adalah bentuk nyata kepedulian dan solidaritas terhadap sesama mahasiswa."
-      image = "/images/timelines/2025-1.jpeg"
+      image = ""
 
     [[params.timeline.events]]
       year = "2025"
       title = " Bertumbuh Bersama"
       description = "Memasuki 2025, tepatnya di semester kedua, HIMADOYA+ tak lagi hanya berisi delapan orang. Seiring berjalannya waktu dan semakin kuatnya visi bersama, jumlah anggota bertambah menjadi 15 orang. HIMADOYA+ berkembang menjadi ruang kolaboratif yang mewadahi berbagai aspirasi, ide, dan aksi nyata dari para anggotanya."
-      image = ""
+      image = "/images/timelines/2025-1.jpeg"
 
 [taxonomies]
   tag = "tags"
